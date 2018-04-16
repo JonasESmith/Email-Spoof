@@ -1,0 +1,72 @@
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\Task Form.exe.config
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\Task Form.exe
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\Task Form.pdb
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\ControlzEx.dll
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\MetroFramework.Design.dll
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\MetroFramework.dll
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\bin\Debug\ControlzEx.pdb
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task Form.csprojResolveAssemblyReference.cache
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task_Form.TaskForm.resources
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task Form.csproj.GenerateResource.Cache
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task Form.csproj.CoreCompileInputs.cache
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task Form.exe
+C:\Users\smithjon\Desktop\projects\Task Form\Task Form\obj\Debug\Task Form.pdb
+F:\Task Form\Task Form\bin\Debug\Task Form.exe.config
+F:\Task Form\Task Form\bin\Debug\Task Form.exe
+F:\Task Form\Task Form\bin\Debug\Task Form.pdb
+F:\Task Form\Task Form\bin\Debug\ControlzEx.dll
+F:\Task Form\Task Form\bin\Debug\MetroFramework.Design.dll
+F:\Task Form\Task Form\bin\Debug\MetroFramework.dll
+F:\Task Form\Task Form\bin\Debug\MetroFramework.Fonts.dll
+F:\Task Form\Task Form\bin\Debug\System.Windows.Interactivity.dll
+F:\Task Form\Task Form\bin\Debug\ControlzEx.pdb
+F:\Task Form\Task Form\obj\Debug\Task Form.csprojResolveAssemblyReference.cache
+F:\Task Form\Task Form\obj\Debug\Task_Form.TaskForm.resources
+F:\Task Form\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+F:\Task Form\Task Form\obj\Debug\Task Form.csproj.GenerateResource.Cache
+F:\Task Form\Task Form\obj\Debug\Task Form.csproj.CoreCompileInputs.cache
+F:\Task Form\Task Form\obj\Debug\Task Form.exe
+F:\Task Form\Task Form\obj\Debug\Task Form.pdb
+F:\Task Form\Task Form\Task Form\bin\Debug\Task Form.exe.config
+F:\Task Form\Task Form\Task Form\bin\Debug\Task Form.exe
+F:\Task Form\Task Form\Task Form\bin\Debug\Task Form.pdb
+F:\Task Form\Task Form\Task Form\obj\Debug\Task Form.csprojResolveAssemblyReference.cache
+F:\Task Form\Task Form\Task Form\obj\Debug\Task_Form.TaskForm.resources
+F:\Task Form\Task Form\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+F:\Task Form\Task Form\Task Form\obj\Debug\Task Form.csproj.GenerateResource.Cache
+F:\Task Form\Task Form\Task Form\obj\Debug\Task Form.csproj.CoreCompileInputs.cache
+F:\Task Form\Task Form\Task Form\obj\Debug\Task Form.exe
+F:\Task Form\Task Form\Task Form\obj\Debug\Task Form.pdb
+K:\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe.config
+K:\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe
+K:\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.pdb
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csprojResolveAssemblyReference.cache
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.TaskForm.resources
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csproj.GenerateResource.Cache
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csproj.CoreCompileInputs.cache
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.exe
+K:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.pdb
+F:\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe.config
+F:\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe
+F:\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.pdb
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csprojResolveAssemblyReference.cache
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.TaskForm.resources
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csproj.GenerateResource.Cache
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csproj.CoreCompileInputs.cache
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.exe
+F:\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.pdb
+K:\Project_18\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe.config
+K:\Project_18\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe
+K:\Project_18\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.pdb
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csprojResolveAssemblyReference.cache
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.TaskForm.resources
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csproj.GenerateResource.Cache
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.csproj.CoreCompileInputs.cache
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.exe
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.pdb

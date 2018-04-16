@@ -1,0 +1,9 @@
+K:\Project_18\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe.config
+K:\Project_18\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.exe
+K:\Project_18\Task Form\emailSpoof\Task Form\bin\Debug\Task Form.pdb
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.SpoofMain.resources
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Spoof.csproj.GenerateResource.Cache
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Spoof.csproj.CoreCompileInputs.cache
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.exe
+K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.pdb
