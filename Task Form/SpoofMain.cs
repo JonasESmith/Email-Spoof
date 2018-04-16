@@ -21,50 +21,22 @@ namespace Task_Form
     {
       InitializeComponent();
 
-      this.Theme      = MetroFramework.MetroThemeStyle.Dark;
-      this.Style      = MetroFramework.MetroColorStyle.Blue;
-                      
-      nameTxt.Theme   = MetroFramework.MetroThemeStyle.Dark;
-      nameTxt.Style   = MetroFramework.MetroColorStyle.Blue;
-
-      nameLabel.Theme = MetroFramework.MetroThemeStyle.Dark;
-      nameLabel.Style = MetroFramework.MetroColorStyle.Blue;
-
-      mailButton.Theme = MetroFramework.MetroThemeStyle.Dark;
-      mailButton.Style = MetroFramework.MetroColorStyle.Blue;
-
-      detailTxt.Theme = MetroFramework.MetroThemeStyle.Dark;
-      detailTxt.Style = MetroFramework.MetroColorStyle.Blue;
-
-      detLabel.Theme = MetroFramework.MetroThemeStyle.Dark;
-      detLabel.Style = MetroFramework.MetroColorStyle.Blue;
-
-      subBox.Theme = MetroFramework.MetroThemeStyle.Dark;
-      subBox.Style = MetroFramework.MetroColorStyle.Blue;
-
-      subLabel.Theme = MetroFramework.MetroThemeStyle.Dark;
-      subLabel.Style = MetroFramework.MetroColorStyle.Blue;
-
-      spoofBox.Theme = MetroFramework.MetroThemeStyle.Dark;
-      spoofBox.Style = MetroFramework.MetroColorStyle.Blue;
-
-      spoofText.Theme = MetroFramework.MetroThemeStyle.Dark;
-      spoofText.Style = MetroFramework.MetroColorStyle.Blue;
-
-      toLabel.Theme = MetroFramework.MetroThemeStyle.Dark;
-      toLabel.Style = MetroFramework.MetroColorStyle.Blue;
-
-      recTxtBox.Theme = MetroFramework.MetroThemeStyle.Dark;
-      recTxtBox.Style = MetroFramework.MetroColorStyle.Blue;
-
-      messageLabel.Theme = MetroFramework.MetroThemeStyle.Dark;
-      messageLabel.Style = MetroFramework.MetroColorStyle.Blue;
-
-      txtBoxCount.Theme = MetroFramework.MetroThemeStyle.Dark;
-      txtBoxCount.Style = MetroFramework.MetroColorStyle.Blue;
-
-      labelCount.Theme = MetroFramework.MetroThemeStyle.Dark;
-      labelCount.Style = MetroFramework.MetroColorStyle.Blue;
+      this.StyleManager         = myStyleManager;
+      subBox.StyleManager       = myStyleManager;
+      nameTxt.StyleManager      = myStyleManager;
+      toLabel.StyleManager      = myStyleManager;
+      detLabel.StyleManager     = myStyleManager;
+      subLabel.StyleManager     = myStyleManager;
+      spoofBox.StyleManager     = myStyleManager;
+      nameLabel.StyleManager    = myStyleManager;
+      detailTxt.StyleManager    = myStyleManager;
+      spoofText.StyleManager    = myStyleManager;
+      recTxtBox.StyleManager    = myStyleManager;
+      mailButton.StyleManager   = myStyleManager;
+      labelCount.StyleManager   = myStyleManager;
+      themeToggle.StyleManager  = myStyleManager;
+      txtBoxCount.StyleManager  = myStyleManager;
+      messageLabel.StyleManager = myStyleManager;
 
       // https://stackoverflow.com/questions/1357853/autocomplete-textbox-control
       // https://stackoverflow.com/questions/9768938/change-the-bordercolor-of-the-textbox
@@ -134,6 +106,22 @@ namespace Task_Form
     {
       /// https://stackoverflow.com/questions/10940732/sending-emails-from-a-windows-forms-application
       send();
+    }
+
+    private void themeToggle_CheckedChanged(object sender, EventArgs e)
+    {
+      if (myStyleManager.Theme == MetroFramework.MetroThemeStyle.Dark)
+      {
+        myStyleManager.Theme = MetroFramework.MetroThemeStyle.Light;
+        myStyleManager.Style = MetroFramework.MetroColorStyle.Blue;
+      }
+      else
+      {
+        myStyleManager.Theme = MetroFramework.MetroThemeStyle.Dark;
+        myStyleManager.Style = MetroFramework.MetroColorStyle.Blue;
+      }
+
+      this.Refresh();
     }
   }
 }

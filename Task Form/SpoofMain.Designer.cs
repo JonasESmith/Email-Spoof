@@ -28,6 +28,7 @@
     /// </summary>
     private void InitializeComponent()
     {
+      this.components = new System.ComponentModel.Container();
       this.nameTxt = new MetroFramework.Controls.MetroTextBox();
       this.nameLabel = new MetroFramework.Controls.MetroLabel();
       this.mailButton = new MetroFramework.Controls.MetroButton();
@@ -43,6 +44,9 @@
       this.textTest = new System.Windows.Forms.TextBox();
       this.txtBoxCount = new MetroFramework.Controls.MetroTextBox();
       this.labelCount = new MetroFramework.Controls.MetroLabel();
+      this.myStyleManager = new MetroFramework.Components.MetroStyleManager(this.components);
+      this.themeToggle = new MetroFramework.Controls.MetroToggle();
+      ((System.ComponentModel.ISupportInitialize)(this.myStyleManager)).BeginInit();
       this.SuspendLayout();
       // 
       // nameTxt
@@ -217,9 +221,9 @@
       this.spoofBox.AutoSize = true;
       this.spoofBox.Location = new System.Drawing.Point(27, 94);
       this.spoofBox.Name = "spoofBox";
-      this.spoofBox.Size = new System.Drawing.Size(38, 19);
+      this.spoofBox.Size = new System.Drawing.Size(69, 19);
       this.spoofBox.TabIndex = 11;
-      this.spoofBox.Text = "from";
+      this.spoofBox.Text = "send from";
       // 
       // spoofText
       // 
@@ -301,17 +305,37 @@
       // labelCount
       // 
       this.labelCount.AutoSize = true;
-      this.labelCount.Location = new System.Drawing.Point(27, 297);
+      this.labelCount.Location = new System.Drawing.Point(17, 297);
       this.labelCount.Name = "labelCount";
-      this.labelCount.Size = new System.Drawing.Size(41, 19);
+      this.labelCount.Size = new System.Drawing.Size(79, 19);
       this.labelCount.TabIndex = 14;
-      this.labelCount.Text = "count";
+      this.labelCount.Text = "spam-count";
       // 
-      // TaskForm
+      // myStyleManager
+      // 
+      this.myStyleManager.Owner = null;
+      this.myStyleManager.Theme = MetroFramework.MetroThemeStyle.Dark;
+      // 
+      // themeToggle
+      // 
+      this.themeToggle.AutoSize = true;
+      this.themeToggle.Checked = true;
+      this.themeToggle.CheckState = System.Windows.Forms.CheckState.Checked;
+      this.themeToggle.Location = new System.Drawing.Point(191, 31);
+      this.themeToggle.Name = "themeToggle";
+      this.themeToggle.Size = new System.Drawing.Size(80, 17);
+      this.themeToggle.TabIndex = 15;
+      this.themeToggle.Text = "On";
+      this.themeToggle.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+      this.themeToggle.UseSelectable = true;
+      this.themeToggle.CheckedChanged += new System.EventHandler(this.themeToggle_CheckedChanged);
+      // 
+      // SpoofMain
       // 
       this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
       this.ClientSize = new System.Drawing.Size(313, 406);
+      this.Controls.Add(this.themeToggle);
       this.Controls.Add(this.labelCount);
       this.Controls.Add(this.txtBoxCount);
       this.Controls.Add(this.textTest);
@@ -327,9 +351,11 @@
       this.Controls.Add(this.mailButton);
       this.Controls.Add(this.nameLabel);
       this.Controls.Add(this.nameTxt);
-      this.Name = "TaskForm";
-      this.Text = "Masked Email";
-      this.Theme = MetroFramework.MetroThemeStyle.Dark;
+      this.MinimizeBox = false;
+      this.Name = "SpoofMain";
+      this.Resizable = false;
+      this.Text = "Email-Spoof";
+      ((System.ComponentModel.ISupportInitialize)(this.myStyleManager)).EndInit();
       this.ResumeLayout(false);
       this.PerformLayout();
 
@@ -351,6 +377,8 @@
     private System.Windows.Forms.TextBox textTest;
     private MetroFramework.Controls.MetroTextBox txtBoxCount;
     private MetroFramework.Controls.MetroLabel labelCount;
+    private MetroFramework.Components.MetroStyleManager myStyleManager;
+    private MetroFramework.Controls.MetroToggle themeToggle;
   }
 }
 

@@ -7,3 +7,13 @@ K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Spoof.csproj.GenerateReso
 K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Spoof.csproj.CoreCompileInputs.cache
 K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.exe
 K:\Project_18\Task Form\emailSpoof\Task Form\obj\Debug\Task Form.pdb
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\bin\Debug\Task Form.exe.config
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\bin\Debug\Task Form.exe
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\bin\Debug\Task Form.pdb
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Spoof.csprojResolveAssemblyReference.cache
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Task_Form.SpoofMain.resources
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Task_Form.Properties.Resources.resources
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Spoof.csproj.GenerateResource.Cache
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Spoof.csproj.CoreCompileInputs.cache
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Task Form.exe
+C:\Users\smithjon\Desktop\projects\Email-Spoof\Task Form\obj\Debug\Task Form.pdb
